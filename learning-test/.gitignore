@@ -1,0 +1,13 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+*/target/
+/out/
+Application/src/main/resources/properties/redis.yaml
