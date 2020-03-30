@@ -6,8 +6,18 @@ import ir.mtyn.learning.generic.mtynbusinesslayer.service.Service;
 /**
  * @author Mohammad Yasin Sadeghi
  */
-public abstract class AbstractService<ID extends Number, T extends BaseEntity<ID>>
+public abstract class AbstractService<ID extends Number, T extends BaseEntity<ID>, DAO extends Dao<ID, T>>
         extends Parameterized<T> implements Service<ID, T> {
+
+    private DAO dao;
+
+    public AbstractService() {
+        dao = (DAO) new Dao();//getting from spring context
+    }
+
+    public AbstractService(DAO dao) {
+        this.dao = dao;
+    }
 
     @Override
     public T byId(ID id) {
@@ -24,5 +34,8 @@ public abstract class AbstractService<ID extends Number, T extends BaseEntity<ID
         return getDao().needlessType(entity);
     }
 
-    protected abstract Dao<ID, T> getDao();
+
+    protected final DAO getDao() {
+        return dao;
+    }
 }
