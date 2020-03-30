@@ -1,10 +1,10 @@
 package ir.mtyn.learning.generic.mtynbusinesslayer.test.service.stuff;
 
-import com.beroozresaan.shop.test.model.stuff.Stuff;
-import com.beroozresaan.shop.test.model.stuff.StuffFilter;
 import ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService;
 import ir.mtyn.learning.generic.mtynbusinesslayer.Dao;
 import ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterResult;
+import ir.mtyn.learning.generic.mtynbusinesslayer.test.model.stuff.Stuff;
+import ir.mtyn.learning.generic.mtynbusinesslayer.test.model.stuff.StuffFilter;
 
 /**
  * @author Mohammad Yasin Sadeghi
