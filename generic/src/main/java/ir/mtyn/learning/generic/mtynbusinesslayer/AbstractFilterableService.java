@@ -3,6 +3,7 @@ package ir.mtyn.learning.generic.mtynbusinesslayer;
 import ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity;
 import ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity;
 import ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable;
+import ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService;
 import ir.mtyn.learning.generic.mtynbusinesslayer.service.Service;
 
 /**
@@ -10,5 +11,5 @@ import ir.mtyn.learning.generic.mtynbusinesslayer.service.Service;
  */
 public abstract class AbstractFilterableService<ID extends Number, T extends BaseEntity<ID>, F extends BaseFilterEntity>
         extends AbstractService<ID, T>
-        implements Filterable<F> {
+        implements FilterableService<ID, T, F> {
 }
