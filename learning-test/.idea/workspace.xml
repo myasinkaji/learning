@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbc5408b-a268-41fd-97bc-369991d91c63" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../effective-java/target/" />
+    <ignored path="$PROJECT_DIR$/design-pattern/target/" />
+    <ignored path="$PROJECT_DIR$/../design-pattern/target/" />
+    <ignored path="$PROJECT_DIR$/../generic/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learning-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Dao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/AbstractDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/PersonDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WidgetDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/WidgetDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseFilterEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/BaseFilterEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/dao/BaseEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/AbstractService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/ir.mtyn.learning.generic.mtynbusinesslayer" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/ir.mtyn.learning.generic.mtynbusinesslayer">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>ir.mtyn.learning.generic.mtynbusinesslayer</OriginalElement>
+              <nodes>
+                <node x="10.5" y="129.0">ir.mtyn.learning.generic.mtynbusinesslayer.dao.Report</node>
+                <node x="777.873903508772" y="485.0">ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService</node>
+                <node x="444.5" y="117.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.Service</node>
+                <node x="0.0" y="562.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterResult</node>
+                <node x="733.0" y="320.5">ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable</node>
+                <node x="510.79385964912285" y="485.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService</node>
+                <node x="223.5" y="116.0">ir.mtyn.learning.generic.mtynbusinesslayer.Parameterized</node>
+                <node x="475.6315789473685" y="284.5">ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService</node>
+                <node x="746.2697368421053" y="153.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity</node>
+                <node x="334.8815789473685" y="0.0">ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity</node>
+                <node x="127.375" y="272.0">ir.mtyn.learning.generic.mtynbusinesslayer.Dao</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable">
+                  <point x="-27.875" y="-16.0" />
+                  <point x="861.498903508772" y="465.0" />
+                  <point x="886.75" y="465.0" />
+                  <point x="51.25" y="28.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.Dao" target="ir.mtyn.learning.generic.mtynbusinesslayer.Parameterized">
+                  <point x="58.0" y="-76.5" />
+                  <point x="301.375" y="252.0" />
+                  <point x="273.75" y="252.0" />
+                  <point x="-50.25" y="53.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable">
+                  <point x="61.5" y="-16.0" />
+                  <point x="654.2938596491229" y="465.0" />
+                  <point x="784.25" y="465.0" />
+                  <point x="-51.25" y="28.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.Service" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+                  <point x="0.0" y="-52.0" />
+                  <point x="540.5" y="96.0" />
+                  <point x="407.2149122807018" y="96.0" />
+                  <point x="10.333333333333314" y="28.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity">
+                  <point x="0.0" y="-28.0" />
+                  <point x="835.5" y="252.0" />
+                  <point x="826.2697368421053" y="252.0" />
+                  <point x="0.0" y="16.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+                  <point x="-61.5" y="-16.0" />
+                  <point x="531.2938596491229" y="465.0" />
+                  <point x="0.0" y="465.0" />
+                  <point x="0.0" y="76.0" />
+                  <point x="345.2149122807018" y="76.0" />
+                  <point x="-51.666666666666686" y="28.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService">
+                  <point x="-83.625" y="-16.0" />
+                  <point x="805.748903508772" y="445.0" />
+                  <point x="580.1315789473686" y="445.0" />
+                  <point x="0.0" y="64.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity">
+                  <point x="27.875" y="-16.0" />
+                  <point x="917.248903508772" y="455.0" />
+                  <point x="978.280701754386" y="455.0" />
+                  <point x="978.280701754386" y="252.0" />
+                  <point x="879.6030701754387" y="252.0" />
+                  <point x="53.33333333333337" y="16.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.Dao" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+                  <point x="-58.0" y="-76.5" />
+                  <point x="185.375" y="252.0" />
+                  <point x="213.0" y="252.0" />
+                  <point x="213.0" y="96.0" />
+                  <point x="386.5482456140352" y="96.0" />
+                  <point x="-10.333333333333314" y="28.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Service">
+                  <point x="-20.5" y="-16.0" />
+                  <point x="572.2938596491229" y="455.0" />
+                  <point x="465.1315789473685" y="455.0" />
+                  <point x="465.1315789473685" y="252.0" />
+                  <point x="492.5" y="252.0" />
+                  <point x="-48.0" y="52.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+                  <point x="83.625" y="-16.0" />
+                  <point x="972.998903508772" y="465.0" />
+                  <point x="989.280701754386" y="465.0" />
+                  <point x="989.280701754386" y="76.0" />
+                  <point x="448.5482456140352" y="76.0" />
+                  <point x="51.666666666666686" y="28.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity">
+                  <point x="20.5" y="-16.0" />
+                  <point x="613.2938596491229" y="455.0" />
+                  <point x="695.1315789473686" y="455.0" />
+                  <point x="695.1315789473686" y="252.0" />
+                  <point x="772.936403508772" y="252.0" />
+                  <point x="-53.33333333333337" y="16.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.dao.Report" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+                  <point x="-1.1368683772161603E-13" y="-40.0" />
+                  <point x="106.49999999999989" y="86.0" />
+                  <point x="365.8815789473685" y="86.0" />
+                  <point x="-31.0" y="28.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService" target="ir.mtyn.learning.generic.mtynbusinesslayer.Parameterized">
+                  <point x="-69.66666666666669" y="-64.0" />
+                  <point x="510.4649122807018" y="242.0" />
+                  <point x="374.25" y="242.0" />
+                  <point x="50.25" y="53.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Service">
+                  <point x="0.0" y="-64.0" />
+                  <point x="580.1315789473686" y="252.0" />
+                  <point x="588.5" y="252.0" />
+                  <point x="48.0" y="52.0" />
+                </edge>
+                <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+                  <point x="69.66666666666669" y="-64.0" />
+                  <point x="649.7982456140352" y="242.0" />
+                  <point x="711.1271929824561" y="242.0" />
+                  <point x="711.1271929824561" y="86.0" />
+                  <point x="427.8815789473685" y="86.0" />
+                  <point x="31.0" y="28.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="500.5" y="178.5" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+                <Category>Fields</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractFilterableService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/AbstractFilterableService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../effective-java/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterableService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/FilterableService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Filterable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/Filterable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilterResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/FilterResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/Dao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parameterized.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/Parameterized.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Report.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/dao/Report.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/adding1/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Box.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegerBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/IntegerBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoubleBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/DoubleBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/NumberBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/NumberBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q3/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q3/NumberBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/Box.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/NumberBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/Box.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoxTester.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/BoxTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/genericdao/GenericDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChildBox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/ChildBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleAdder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/adding2/SimpleAdder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/software/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/entity/BaseEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/entity/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Widget.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/entity/Widget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Field.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/software/jdk1.8.0_181/src.zip!/java/lang/reflect/Field.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarChild.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p2/CarChild.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p2/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p2/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Entity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p2/Entity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeDrawer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../design-pattern/src/main/java/ir/mtyn/learning/designpattern/bridge/p1/ShapeDrawer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CircleDrawer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../design-pattern/src/main/java/ir/mtyn/learning/designpattern/bridge/p1/CircleDrawer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jersey-container-grizzly2-servlet</find>
+      <find>learning-shooter</find>
+      <find>pool</find>
+      <find>has</find>
+      <find>thread</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/A.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Person.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Widget.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/entity/Widget.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Dao.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/AbstractDao.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/PersonDao.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/adding2/Adder.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/adding2/SimpleAdder.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p2/Service.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/adding1/Service.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Box.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/BoxAdder.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/BoxTester.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Box1.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Box2.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Box3.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/DoubleBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/IntegerBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/package2/Box.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/Box.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/NumberBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/a/q1/Client.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/NumberBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/Client.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/Client.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/a/q2/NumberBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q3/NumberBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q3/Client.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/ChildBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/NumberBox.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Client.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/genericdao/GenericDao.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/WidgetDao.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Main.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/BaseFilter.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/Service.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/dao/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/dao/Report.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/BaseFilter.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/Filterable.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/dao/Dao.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/Service.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/AbstractService.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/FilterableService.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/AbstractFilterableService.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/Dao.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/Parameterized.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/DaoWrapper.java" />
+        <option value="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/AbstractService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learning-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learning-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-99" />
+    <option name="y" value="95" />
+    <option name="width" value="1523" />
+    <option name="height" value="762" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effective-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+              <item name="mtyn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+              <item name="mtyn" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+              <item name="mtyn" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+              <item name="mtyn" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="mtynbusinesslayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+              <item name="mtyn" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="mtynbusinesslayer" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ir" type="462c0819:PsiDirectoryNode" />
+              <item name="mtyn" type="462c0819:PsiDirectoryNode" />
+              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="mtynbusinesslayer" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="ir.mtyn.learning.test.parameterizedtest.p1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ir.mtyn.learning.generic.mtynbusinesslayer" />
+      <recent name="ir.mtyn.learning.generic.mtynbusinesslayer.service" />
+      <recent name="ir.mtyn.learning.generic.resolve.package2" />
+      <recent name="ir.mtyn.learning.generic.resolve.p1.dao" />
+      <recent name="ir.mtyn.learning.generic.typeerasure.p2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/a" />
+      <recent name="$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mtyn.learning.generic.resolve.package2.Client" />
+      <module name="generic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mtyn.learning.generic.resolve.package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mtyn.learning.generic.resolve.questions.q3.Client" />
+      <module name="generic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mtyn.learning.generic.resolve.questions.q3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mtyn.learning.generic.resolve.p1.Main" />
+      <module name="generic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mtyn.learning.generic.resolve.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mtyn.learning.generic.resolve.p1.dao.Main" />
+      <module name="generic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mtyn.learning.generic.resolve.p1.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ir.mtyn.learning.generic.typeerasure.p2.Test" />
+      <module name="generic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ir.mtyn.learning.generic.typeerasure.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbc5408b-a268-41fd-97bc-369991d91c63" name="Default" comment="" />
+      <created>1582990952445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582990952445</updated>
+      <workItem from="1582990955323" duration="1370000" />
+      <workItem from="1583071775457" duration="1034000" />
+      <workItem from="1583736205207" duration="1732000" />
+      <workItem from="1583837233297" duration="93000" />
+      <workItem from="1583913836774" duration="3423000" />
+      <workItem from="1583923576530" duration="2302000" />
+      <workItem from="1583927965524" duration="7000" />
+      <workItem from="1584364711539" duration="2928000" />
+      <workItem from="1584430212646" duration="8735000" />
+      <workItem from="1584521237282" duration="3748000" />
+      <workItem from="1585116959910" duration="6648000" />
+      <workItem from="1585127273770" duration="628000" />
+      <workItem from="1585486872538" duration="627000" />
+      <workItem from="1585555198358" duration="6496000" />
+      <workItem from="1585569323044" duration="520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test1 - 2020.02.29 at 19h 28m 21s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 28m 52s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 28m 59s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 29m 15s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 29m 23s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 30m 37s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 30m 48s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 31m 37s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 32m 42s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test1 - 2020.02.29 at 19h 32m 53s.xml">
+      <configuration name="Test1" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40291000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32952252" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962447" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32962447" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4853964" weight="0.25958306" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30041724" />
+      <window_info id="Favorites" order="2" sideWeight="0.5146036" side_tool="true" weight="0.25958306" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32962447" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ir/mtyn/learning/test/parameterizedtest/p1/Test1.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ir/mtyn/learning/test/parameterizedtest/p1/Test1.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p2/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/Main.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/AbstractDao.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/NumberBox.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q3/NumberBox.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/AbstractDao.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="31" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getTypeName();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getTypeName()[0];</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getActualTypeArguments()[0];</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getClass().getGenericSuperclass()
+;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getClass().getGenericSignature0();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getClass().getGenericInfo();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getClass();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getRawType();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ParameterizedTypeImpl) getClass().getGenericSuperclass()).getOwnerType();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/DoubleBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/IntegerBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/BoxTester.java" />
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q2/NumberBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/NumberBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q3/NumberBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/questions/q3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/ChildBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/NumberBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/BoxTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/package2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/genericdao/GenericDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/entity/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/entity/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/entity/Widget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/PersonDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/WidgetDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/AbstractDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/p1/dao/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p1/StringChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p2/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/FilterResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/typeerasure/p1/IntegerChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/dao/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/target/classes/ir/mtyn/learning/generic/typeerasure/p2/Parent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/target/classes/ir/mtyn/learning/generic/typeerasure/p2/CarChild.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../effective-java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/target/classes/ir/mtyn/learning/generic/typeerasure/p2/Person.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/AbstractFilterableService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk1.8.0_181/src.zip!/java/lang/reflect/AccessibleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/resolve/adding2/Adder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/DaoWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/dao/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/BaseFilterEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/FilterableService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/Filterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/Parameterized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generic/src/main/java/ir/mtyn/learning/generic/mtynbusinesslayer/AbstractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ir.mtyn.learning.generic.mtynbusinesslayer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ir.mtyn.learning.generic.mtynbusinesslayer</OriginalElement>
+          <nodes>
+            <node x="10.5" y="129.0">ir.mtyn.learning.generic.mtynbusinesslayer.dao.Report</node>
+            <node x="777.873903508772" y="485.0">ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService</node>
+            <node x="444.5" y="117.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.Service</node>
+            <node x="0.0" y="562.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterResult</node>
+            <node x="733.0" y="320.5">ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable</node>
+            <node x="510.79385964912285" y="485.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService</node>
+            <node x="223.5" y="116.0">ir.mtyn.learning.generic.mtynbusinesslayer.Parameterized</node>
+            <node x="475.6315789473685" y="284.5">ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService</node>
+            <node x="746.2697368421053" y="153.0">ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity</node>
+            <node x="334.8815789473685" y="0.0">ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity</node>
+            <node x="127.375" y="272.0">ir.mtyn.learning.generic.mtynbusinesslayer.Dao</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable">
+              <point x="-27.875" y="-16.0" />
+              <point x="861.498903508772" y="465.0" />
+              <point x="886.75" y="465.0" />
+              <point x="51.25" y="28.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.Dao" target="ir.mtyn.learning.generic.mtynbusinesslayer.Parameterized">
+              <point x="58.0" y="-76.5" />
+              <point x="301.375" y="252.0" />
+              <point x="273.75" y="252.0" />
+              <point x="-50.25" y="53.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable">
+              <point x="61.5" y="-16.0" />
+              <point x="654.2938596491229" y="465.0" />
+              <point x="784.25" y="465.0" />
+              <point x="-51.25" y="28.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.Service" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+              <point x="0.0" y="-52.0" />
+              <point x="540.5" y="96.0" />
+              <point x="407.2149122807018" y="96.0" />
+              <point x="10.333333333333314" y="28.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.Filterable" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity">
+              <point x="0.0" y="-28.0" />
+              <point x="835.5" y="252.0" />
+              <point x="826.2697368421053" y="252.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+              <point x="-61.5" y="-16.0" />
+              <point x="531.2938596491229" y="465.0" />
+              <point x="0.0" y="465.0" />
+              <point x="0.0" y="76.0" />
+              <point x="345.2149122807018" y="76.0" />
+              <point x="-51.666666666666686" y="28.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService">
+              <point x="-83.625" y="-16.0" />
+              <point x="805.748903508772" y="445.0" />
+              <point x="580.1315789473686" y="445.0" />
+              <point x="0.0" y="64.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity">
+              <point x="27.875" y="-16.0" />
+              <point x="917.248903508772" y="455.0" />
+              <point x="978.280701754386" y="455.0" />
+              <point x="978.280701754386" y="252.0" />
+              <point x="879.6030701754387" y="252.0" />
+              <point x="53.33333333333337" y="16.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.Dao" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+              <point x="-58.0" y="-76.5" />
+              <point x="185.375" y="252.0" />
+              <point x="213.0" y="252.0" />
+              <point x="213.0" y="96.0" />
+              <point x="386.5482456140352" y="96.0" />
+              <point x="-10.333333333333314" y="28.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Service">
+              <point x="-20.5" y="-16.0" />
+              <point x="572.2938596491229" y="455.0" />
+              <point x="465.1315789473685" y="455.0" />
+              <point x="465.1315789473685" y="252.0" />
+              <point x="492.5" y="252.0" />
+              <point x="-48.0" y="52.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractFilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+              <point x="83.625" y="-16.0" />
+              <point x="972.998903508772" y="465.0" />
+              <point x="989.280701754386" y="465.0" />
+              <point x="989.280701754386" y="76.0" />
+              <point x="448.5482456140352" y="76.0" />
+              <point x="51.666666666666686" y="28.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.service.FilterableService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.BaseFilterEntity">
+              <point x="20.5" y="-16.0" />
+              <point x="613.2938596491229" y="455.0" />
+              <point x="695.1315789473686" y="455.0" />
+              <point x="695.1315789473686" y="252.0" />
+              <point x="772.936403508772" y="252.0" />
+              <point x="-53.33333333333337" y="16.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.dao.Report" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+              <point x="-1.1368683772161603E-13" y="-40.0" />
+              <point x="106.49999999999989" y="86.0" />
+              <point x="365.8815789473685" y="86.0" />
+              <point x="-31.0" y="28.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService" target="ir.mtyn.learning.generic.mtynbusinesslayer.Parameterized">
+              <point x="-69.66666666666669" y="-64.0" />
+              <point x="510.4649122807018" y="242.0" />
+              <point x="374.25" y="242.0" />
+              <point x="50.25" y="53.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService" target="ir.mtyn.learning.generic.mtynbusinesslayer.service.Service">
+              <point x="0.0" y="-64.0" />
+              <point x="580.1315789473686" y="252.0" />
+              <point x="588.5" y="252.0" />
+              <point x="48.0" y="52.0" />
+            </edge>
+            <edge source="ir.mtyn.learning.generic.mtynbusinesslayer.AbstractService" target="ir.mtyn.learning.generic.mtynbusinesslayer.dao.BaseEntity">
+              <point x="69.66666666666669" y="-64.0" />
+              <point x="649.7982456140352" y="242.0" />
+              <point x="711.1271929824561" y="242.0" />
+              <point x="711.1271929824561" y="86.0" />
+              <point x="427.8815789473685" y="86.0" />
+              <point x="31.0" y="28.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="500.5" y="178.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>generic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
