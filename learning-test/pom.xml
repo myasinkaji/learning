@@ -15,6 +15,7 @@
         <module>../effective-java</module>
         <module>../design-pattern</module>
         <module>../generic</module>
+        <module>../generic-dao</module>
     </modules>
 
     <properties>
